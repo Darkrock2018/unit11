@@ -1,0 +1,12 @@
+Joe Morales
+CS85 Section 1729
+
+Node.js is a framework, used to execute Javascript files through a server. 
+This is unlike simply calling up an html file on your PC, in that you do have server-side action/methods available to you.
+Node.js is a framework, which means it can process one or various languages in a structure that may have its own syntax, for the benfit
+of running a source code in a more efficient way. It is a "single-threaded" framework, meaning it runs and establishes some memory first,
+such as variables and functions, and then sets up "listeners" which await the "events" to occur.
+Node.js is also know for being asynchronous which means each "event" can be run seperately, whereas some programs await the response/end 
+of one process before beginning another. It is argued this framework allows code to be run more quickly because it send small requests one after
+another to the CPU without waiting for the response/end of any specific code. Others say it can result in, basically what a back-up of traffic in 
+LA can become, block and possibly subsquently crash a program or even the host
